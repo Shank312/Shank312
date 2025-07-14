@@ -50,13 +50,18 @@
 
 ## 📈 Daily Practice Routine
 
-🧠 2 hrs – C++ / Java OOP  
-🧮 2 hrs – DSA + Leetcode (1000+ goal)  
-🤖 2 hrs – Python Projects / Automation  
-🧬 3 hrs – AI/ML + Deep Learning  
-🧰 1 hr – GitHub Portfolio, CI/CD  
-📚 2 hrs – System Design & Deployment  
-🌐 2 hrs – Building Remote-Job Readiness
+⏱️ I aim to put in **8–17 hours/day**, depending on energy, focus, and priority.
+
+🧠 **Core Focus Areas** (tracked daily):
+- ✅ DSA + Leetcode (2–3 hrs)  
+- ✅ AI/ML + Deep Learning (2–3 hrs)  
+- ✅ System Design / Software Architecture (1–2 hrs)  
+- ✅ Projects / Automation / API Development (1–2 hrs)  
+- ✅ C++ / Java / Python OOP Practice (1 hr)  
+- ✅ GitHub / CI-CD / Portfolio Enhancements (30–60 mins)  
+- ✅ Reading / Strategy / Planning (30–60 mins)
+
+💡 *Some days are 8 hours. Some go up to 17. But I show up daily.*
 
 ---
 
