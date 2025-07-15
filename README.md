@@ -2,12 +2,12 @@
 # 👋 Hi, I'm Shankar Kumar
 
 🧠 **AI/ML + System Design** | `Python` • `C++` • `Java` | DSA + CP • LeetCode | Building for Top 0.0001%  
-🌍 Remote-Ready | Open to $250K+ Global Roles
+🌍 Remote-Ready | Open to Global Roles
 
 ---
 
 ## 🚀 Mission
-**Become the Top 0.0001% in Tech** — mastering AI, ML, DSA, System Design, and Building Production-Ready Projects with Impact.
+**Become the Top in Tech** — mastering AI, ML, DSA, System Design, and Building Production-Ready Projects with Impact.
 
 ---
 
