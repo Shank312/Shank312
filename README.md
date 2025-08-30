@@ -1,76 +1,83 @@
+👋 Hi, I'm Shankar Kumar
 
-# 👋 Hi, I'm Shankar Kumar
+🚀 AI/ML Engineer in training | System Design | Full Stack (Python • C++ • Java) | DSA + CP | Leetcode | Kaggle | Building for Top 0.01% | Remote-Ready 🌍
 
-🧠 **AI/ML + System Design** | `Python` • `C++` • `Java` | DSA + CP • LeetCode | Building for Top 0.0001%  
-🌍 Remote-Ready | Open to Global Roles
+🎯 Mission
 
----
+To master AI, ML, DSA, and System Design while building production-ready projects that solve real-world problems — with the ultimate goal of becoming the top 0.0001% engineer globally.
 
-## 🚀 Mission
-**Become the Top in Tech** — mastering AI, ML, DSA, System Design, and Building Production-Ready Projects with Impact.
+🛠️ Tech Stack
 
----
+Languages
 
-## 🔧 Tech Stack
+Python, C++, Java, SQL, Bash
 
-**Languages:**  
-`Python` `C++` `Java` `SQL` `Bash`
+Libraries & Frameworks
 
-**Libraries & Frameworks:**  
-`TensorFlow` `PyTorch` `Keras` `Pandas` `NumPy` `Matplotlib` `Flask` `FastAPI`
+TensorFlow, PyTorch, Keras, Pandas, NumPy, Matplotlib, Flask, FastAPI
 
-**Tools & DevOps:**  
-`Docker` `Git` `GitHub Actions` `VS Code` `Postman` `Linux` `CI/CD`
+Tools & DevOps
 
----
+Docker, Git, GitHub Actions, VS Code, Postman, Linux, CI/CD
 
-## 📌 Featured Projects
+🚀 Featured Projects
 
-### 🎯 End-to-End ML & AI  
-- [**awesome-ai-projects**](https://github.com/Shank312/awesome-ai-projects): Full-stack ML apps with real-world deployment
+End-to-End ML & AI → Full-stack ML apps with deployment
 
-### 🧠 Leetcode + DSA  
-- [**leetcode-solutions**](https://github.com/Shank312/leetcode-solutions): 500+ problems with explanations (targeting 1000+)
+Leetcode + DSA → 500+ problems with solutions & explanations (Target: 3000+)
 
-### 🔁 ML APIs & Automation  
-- [**machine-learning-api**](https://github.com/Shank312/machine-learning-api): Deploy ML with Flask, Docker, and CI/CD
+ML APIs & Automation → Deploy ML with Flask, Docker & CI/CD
 
----
+📌 Latest Pinned Repositories
 
-## 📂 Latest Pinned Repositories
+C++ OOP Concepts
 
-- [**D-Day-03-C-OOP-Concepts-Classes-Objects**](https://github.com/Shank312/D-Day-03-C-OOP-Concepts-Classes-Objects) — C++ OOP examples  
-- [**D-Day-03-DSA-Doubly-Linked-List-C**](https://github.com/Shank312/D-Day-03-DSA-Doubly-Linked-List-C) — DSA with C++ Doubly Linked List  
-- [**D-Day-03-Leetcode_Medium**](https://github.com/Shank312/D-Day-03-Leetcode_Medium) — Medium-level Leetcode problems  
-- [**D-Day-03-Practice-3-Python-Error-Handled-Scripts**](https://github.com/Shank312/D-Day-03-Practice-3-Python-Error-Handled-Scripts) — Python with error handling  
-- [**GitHub-Day2-Branching**](https://github.com/Shank312/GitHub-Day2-Branching) — Git branching practice  
-- [**java-basics**](https://github.com/Shank312/java-basics) — Java OOP practice
+DSA with Doubly Linked List (C++)
 
----
+Leetcode Medium Problems
 
-## 📈 Daily Practice Routine
+Python Error Handling
 
-⏱️ I aim to put in **8–17 hours/day**, depending on energy, focus, and priority.
+Git Branching Practice
 
-🧠 **Core Focus Areas** (tracked daily):
-- ✅ DSA + Leetcode (2–3 hrs)  
-- ✅ AI/ML + Deep Learning (2–3 hrs)  
-- ✅ System Design / Software Architecture (1–2 hrs)  
-- ✅ Projects / Automation / API Development (1–2 hrs)  
-- ✅ C++ / Java / Python OOP Practice (1 hr)  
-- ✅ GitHub / CI-CD / Portfolio Enhancements (30–60 mins)  
-- ✅ Reading / Strategy / Planning (30–60 mins)
+Java OOP Practice
 
-💡 *Some days are 8 hours. Some go up to 17. But I show up daily.*
+⏳ Daily Practice Routine
 
----
+I dedicate 8–17 hours/day (depending on energy & focus) across:
 
-## 📬 Connect with Me
+✅ DSA + Leetcode (2–3 hrs)
 
-- 🌐 [GitHub](https://github.com/Shank312)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shankar-kumar-001533170/)
-- 🐦 [X / Twitter](https://x.com/ShankarKum35623)
+✅ AI/ML + Deep Learning (2–3 hrs)
 
----
+✅ System Design & Architecture (1–2 hrs)
 
-> 🚀 *"Code. Build. Deploy. Repeat — Until You Become the 0.0001%"*
+✅ Projects / APIs / Automation (1–2 hrs)
+
+✅ C++ / Java / Python OOP (1 hr)
+
+✅ GitHub / CI/CD / Portfolio (30–60 mins)
+
+✅ Reading / Strategy / Planning (30–60 mins)
+
+💡 Some days are 8 hours. Some go up to 17. But I show up daily.
+
+🌍 Connect with Me
+
+🔗 GitHub
+
+💼 LinkedIn
+
+🐦 X (Twitter)
+
+🚀 Motto
+
+Code. Build. Deploy. Repeat — Until You Become the Top 0.0001%.
+
+⚡ This refined README keeps all your original energy but makes it:
+
+Professional + Recruiter-friendly (keywords: AI, ML, DSA, System Design, Full Stack).
+
+Proof of work (projects, pinned repos).
+
+Brand positioning (Top 0.01%).
