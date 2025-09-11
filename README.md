@@ -83,10 +83,3 @@ Code. Build. Deploy. Repeat — Until You Become the Top 0.01%.
 
 
 
-⚡ This refined README keeps all your original energy but makes it:
-
-Professional + Recruiter-friendly (keywords: AI, ML, DSA, System Design, Full Stack).
-
-Proof of work (projects, pinned repos).
-
-Brand positioning (Top 0.01%).
