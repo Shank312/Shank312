@@ -46,25 +46,17 @@ https://github.com/Shank312/D-Day-05-ML-Project-Iris-Classifier-Continued-01_iri
 
 
 
-⏳ Daily Practice Routine
+⏳ Daily Practice Routine (8–10 hrs)
 
-I dedicate 8–17 hours/day (depending on energy & focus) across:
+✅ DSA + Leetcode – 2 hrs
+✅ AI/ML + Deep Learning – 2 hrs
+✅ System Design & Architecture – 1 hr
+✅ Projects / APIs / Automation – 2 hrs
+✅ C++ / Java / Python OOP – 1 hr
+✅ GitHub / Portfolio / CI-CD – 30 mins
+✅ Reading / Strategy / Planning – 30–60 mins
 
-✅ DSA + Leetcode (2–3 hrs)
-
-✅ AI/ML + Deep Learning (2–3 hrs)
-
-✅ System Design & Architecture (1–2 hrs)
-
-✅ Projects / APIs / Automation (1–2 hrs)
-
-✅ C++ / Java / Python OOP (1 hr)
-
-✅ GitHub / CI/CD / Portfolio (30–60 mins)
-
-✅ Reading / Strategy / Planning (30–60 mins)
-
-💡 Some days are 8 hours. Some go up to 17. But I show up daily.
+💡 Consistency > Intensity. I show up daily, every single day.
 
 
 
