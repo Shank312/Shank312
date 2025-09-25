@@ -35,13 +35,14 @@ ML APIs & Automation → Deploy ML with Flask, Docker & CI/CD
 
 
 
-📌 Latest Pinned Repositories
+📌 Latest Pinned Repositories:
+https://github.com/Shank312/D-Day-08-ML-Projects-Stock-Price-Prediction-LSTMARIMA-baseline
+https://github.com/Shank312/D-Day-08-ML-Projects-Credit-Card-Fraud-Detection-Imbalanced-learning-SMOTE
+https://github.com/Shank312/D-Day-08-ML-Projects-Fake-News-Detection-Logistic-Regression-Naive-Bayes
+https://github.com/Shank312/D-Day-08-Implement-BST-InsertDeleteSearch
 https://github.com/Shank312/D-Day-06-Deep-Learning-Projects-01_MNIST_Classification
 https://github.com/Shank312/D-Day-06-ml-projects-02-Wine-Quality-Prediction-Regression
 https://github.com/Shank312/D-Day-05-ML-Project-Iris-Classifier-Continued-01_iris_classification
-https://github.com/Shank312/D-Day-06-Leetcode
-https://github.com/Shank312/D-Day-06-Python-Advanced
-https://github.com/Shank312/ml_projects
 
 
 
