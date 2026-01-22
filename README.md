@@ -1,6 +1,6 @@
 👋 Hi, I'm Shankar Kumar
 
-🚀 AI/ML Engineer in training | System Design | Full Stack (Python • C++ • Java) | DSA + CP | Leetcode | Kaggle | Building for Top 0.01% | Remote-Ready 🌍
+🚀 AI/ML Engineer | System Design | Full Stack (Python • C++ • Java) | DSA + CP | Leetcode | Kaggle | Building for Top 0.01% | Remote-Ready 🌍
 
 
 
