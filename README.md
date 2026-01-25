@@ -6,7 +6,7 @@
 
 🎯 Mission
 
-To master AI, ML, DSA, and System Design while building production-ready projects that solve real-world problems — with the ultimate goal of becoming the top 0.01% engineer globally.
+To master AI, ML, DSA, and System Design while building production-ready projects that solve real-world problems - with the ultimate goal of becoming the top 0.01% engineer globally.
 
 
 
