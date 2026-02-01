@@ -1,12 +1,12 @@
 👋 Hi, I'm Shankar Kumar
 
-🚀 AI/ML Engineer | System Design | Full Stack (Python • C++ • Java) | DSA + CP | Leetcode | Kaggle | Building for Top 0.01% | Remote-Ready 🌍
+🚀 AI/ML Engineer | System Design | Full Stack (Python • C++ • Java) | DSA + CP | Leetcode | Kaggle
 
 
 
 🎯 Mission
 
-To master AI, ML, DSA, and System Design while building production-ready projects that solve real-world problems - with the ultimate goal of becoming the top 0.01% engineer globally.
+To master AI, ML, DSA, and System Design while building production-ready projects that solve real-world problems - with the ultimate goal of becoming the top engineer globally.
 
 
 
@@ -61,7 +61,7 @@ https://github.com/Shank312/D-Day-05-ML-Project-Iris-Classifier-Continued-01_iri
 
 🚀 Motto
 
-Code. Build. Deploy. Repeat — Until You Become the Top 0.01%.
+Code. Build. Deploy. Repeat
 
 
 
