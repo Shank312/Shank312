@@ -1,67 +1,105 @@
 👋 Hi, I'm Shankar Kumar
 
-🚀 AI/ML Engineer | System Design | Full Stack (Python • C++ • Java) | DSA + CP | Leetcode | Kaggle
+🚀 AI/ML Engineer focused on building production-grade AI systems, LLM applications, scalable ML APIs, and real-world automation workflows.
+
+I work deeply across:
+
+AI Engineering
+LLM/RAG Systems
+FastAPI & Backend Systems
+Open Source Contributions
+ML Deployment & DevOps
+System Design & DSA
 
 
+💡 Mission
 
-🎯 Mission
-
-To master AI, ML, DSA, and System Design while building production-ready projects that solve real-world problems - with the ultimate goal of becoming the top engineer globally.
-
+To build high-impact AI systems, contribute to world-class open-source projects, and become a globally recognized AI engineer through consistent execution, deep technical learning, and production-grade development.
 
 
-🛠️ Tech Stack
-
+🛠 Tech Stack
 Languages
 
-Python, C++, Java, SQL, Bash
+Python • C++ • Java • SQL • Bash
 
-Libraries & Frameworks
+AI/ML
 
-TensorFlow, PyTorch, Keras, Pandas, NumPy, Matplotlib, Flask, FastAPI
+PyTorch • TensorFlow • Scikit-learn • NLP • LLMs • RAG • Pandas • NumPy
 
-Tools & DevOps
+Backend & APIs
 
-Docker, Git, GitHub Actions, VS Code, Postman, Linux, CI/CD
+FastAPI • REST APIs • AsyncIO • Flask
 
+DevOps & Tools
 
-🚀 Featured Projects
+Docker • Git • GitHub Actions • Linux • CI/CD • MLflow • Postman
 
-End-to-End ML & AI → Full-stack ML apps with deployment
+Core CS
 
-Leetcode + DSA → 500+ problems with solutions & explanations (Target: 3000+)
-
-ML APIs & Automation → Deploy ML with Flask, Docker & CI/CD
-
+System Design • OOP • Concurrency • DSA • LeetCode
 
 
-📌 Latest Pinned Repositories:
-https://github.com/Shank312/D-Day-08-ML-Projects-Stock-Price-Prediction-LSTMARIMA-baseline
-https://github.com/Shank312/D-Day-08-ML-Projects-Credit-Card-Fraud-Detection-Imbalanced-learning-SMOTE
-https://github.com/Shank312/D-Day-08-ML-Projects-Fake-News-Detection-Logistic-Regression-Naive-Bayes
-https://github.com/Shank312/D-Day-08-Implement-BST-InsertDeleteSearch
-https://github.com/Shank312/D-Day-06-Deep-Learning-Projects-01_MNIST_Classification
-https://github.com/Shank312/D-Day-06-ml-projects-02-Wine-Quality-Prediction-Regression
-https://github.com/Shank312/D-Day-05-ML-Project-Iris-Classifier-Continued-01_iris_classification
+🚀 What I’m Building
+Production-ready AI/ML systems
+LLM evaluation pipelines
+Retrieval-Augmented Generation (RAG) applications
+ML deployment infrastructure
+Async inference systems
+End-to-end ML APIs with Docker & FastAPI
+Open-source contributions to major AI repositories
 
 
-💡 Consistency > Intensity. I show up daily, every single day.
+📌 Featured Work
+🤖 LLM Evaluation System
+
+Built automated pipelines for evaluating LLM outputs, hallucination detection, and benchmarking workflows.
+
+📈 Loan Default Prediction
+
+Developed ML pipeline using LightGBM with FastAPI deployment and modular architecture.
+
+🛡 Fraud Detection System
+
+Applied SMOTE for imbalance handling and SHAP for model interpretability.
+
+⚡ ML API Deployment
+
+Built scalable ML APIs using FastAPI, Docker, and async workflows for real-time inference.
 
 
+🌍 Open Source Journey
 
-🌍 Connect with Me
+Currently contributing and learning from:
 
-🔗 GitHub https://github.com/Shank312
+PyTorch
+Hugging Face
+OpenAI Cookbook
+AI/ML open-source ecosystems
 
-💼 LinkedIn https://www.linkedin.com/in/shankar-kumar-001533170/
+Goal:
 
-🐦 X (Twitter) https://x.com/ShankarKum35623
+Consistent OSS contributions
+High-quality merged PRs
+Deep understanding of production AI systems
 
 
+📚 Learning & Growth
+125+ LeetCode problems solved
+70+ GitHub repositories
+25+ AI/ML projects built
+Kaggle competitions & experimentation
+Continuous deep work in AI Engineering
 
-🚀 Motto
 
-Code. Build. Deploy. Repeat
+🌐 Connect With Me
+GitHub: github.com/Shank312
+LinkedIn: linkedin.com/in/shankar-kumar-001533170
+X (Twitter): x.com/ShankarKum35623
+
+
+⚡ Motto
+
+Learn deeply. Build consistently. Ship relentlessly.
 
 
 
