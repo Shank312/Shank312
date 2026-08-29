@@ -1,6 +1,6 @@
 👋 Hi, I'm Shankar Kumar
 
-🚀 AI/ML Engineer focused on building production-grade AI systems, LLM applications, scalable ML APIs, and real-world automation workflows.
+🚀 AI Engineer focused on building production-grade AI systems, LLM applications, scalable ML APIs, and real-world automation workflows.
 
 I work deeply across:
 
@@ -22,7 +22,7 @@ Languages
 
 Python • C++ • Java • SQL • Bash
 
-AI/ML
+AI
 
 PyTorch • TensorFlow • Scikit-learn • NLP • LLMs • RAG • Pandas • NumPy
 
